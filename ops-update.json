@@ -1,0 +1,11 @@
+{
+  "version": "0.8.6",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/chen22525255225252/ops-releases@v0.8.6/pkgs/ops-0.8.6.zip",
+  "sha256": "96d50a61c1dd9102c06cd5366da6835439758dcb993ff0ac13b6fea418b66b4e",
+  "sizeBytes": 5963921,
+  "notes": [
+    "应用内自动更新通道首发：0.8.5 起，新版本无需重装——页面提示后一键更新",
+    "本次为通道验证版（仅版本号变化）"
+  ],
+  "publishedAt": "2026-10-10T13:59:57Z"
+}
