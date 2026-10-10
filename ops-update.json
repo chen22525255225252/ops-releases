@@ -1,11 +1,11 @@
 {
-  "version": "0.8.6",
-  "zipUrl": "https://cdn.jsdelivr.net/gh/chen22525255225252/ops-releases@v0.8.6/pkgs/ops-0.8.6.zip",
-  "sha256": "96d50a61c1dd9102c06cd5366da6835439758dcb993ff0ac13b6fea418b66b4e",
-  "sizeBytes": 5963921,
+  "version": "0.8.7",
+  "zipUrl": "https://cdn.jsdelivr.net/gh/chen22525255225252/ops-releases@v0.8.7/pkgs/ops-0.8.7.zip",
+  "sha256": "851d46f39da6dff6fd6ed2e96482011ca9f45db8e8624ba1eb40ab328e34aab2",
+  "sizeBytes": 13435509,
   "notes": [
-    "应用内自动更新通道首发：0.8.5 起，新版本无需重装——页面提示后一键更新",
-    "本次为通道验证版（仅版本号变化）"
+    "新手教程全面重做：4 分 46 秒完整版，每一步看得见点什么、输什么；App 内『新手教程』与欢迎页可直接播放",
+    "镜头、配音效、文案全面升级"
   ],
-  "publishedAt": "2026-10-10T13:59:57Z"
+  "publishedAt": "2026-10-10T16:41:58Z"
 }
